@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Navigation_Template.ViewModels
 {
-    internal class Page1ViewModel
+    public class Page1ViewModel
     {
+        public Page1ViewModel() { }
     }
 }
