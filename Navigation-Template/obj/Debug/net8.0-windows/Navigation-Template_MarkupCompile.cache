@@ -1,5 +1,5 @@
 ﻿Navigation-Template
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\eduar\Desktop\ownProject\Navigation-Template\Navigation-Template\App.xaml
 4-1783656800
 
-13-419267822
+11-749598111
 198-688555687
 MainWindow.xaml;Utilities\DataTemplateNav.xaml;Views\Page1View.xaml;Views\Page2View.xaml;
 
