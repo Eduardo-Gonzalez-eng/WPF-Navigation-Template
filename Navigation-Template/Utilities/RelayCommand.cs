@@ -9,8 +9,8 @@ namespace Navigation_Template.Utilities
 {
     internal class RelayCommand : ICommand
     {
-        private readonly Action<Object> _execute;
-        private readonly Func<Object, bool> _canExecute;
+        private readonly Action<object> _execute;
+        private readonly Func<object, bool> _canExecute;
 
         public event EventHandler? CanExecuteChanged
         {
